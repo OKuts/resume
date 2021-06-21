@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.af579af1.chunk.css",
-    "main.js": "./static/js/main.7cfbc1bf.chunk.js",
-    "main.js.map": "./static/js/main.7cfbc1bf.chunk.js.map",
+    "main.css": "./static/css/main.4902124d.chunk.css",
+    "main.js": "./static/js/main.e66a1d54.chunk.js",
+    "main.js.map": "./static/js/main.e66a1d54.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9cff7ef4.js",
     "runtime-main.js.map": "./static/js/runtime-main.9cff7ef4.js.map",
     "static/js/2.22a8dccd.chunk.js": "./static/js/2.22a8dccd.chunk.js",
     "static/js/2.22a8dccd.chunk.js.map": "./static/js/2.22a8dccd.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.af579af1.chunk.css.map": "./static/css/main.af579af1.chunk.css.map",
+    "static/css/main.4902124d.chunk.css.map": "./static/css/main.4902124d.chunk.css.map",
     "static/js/2.22a8dccd.chunk.js.LICENSE.txt": "./static/js/2.22a8dccd.chunk.js.LICENSE.txt",
     "static/media/Kuts.1340d708.jpg": "./static/media/Kuts.1340d708.jpg",
     "static/media/calculator.1bfb2979.png": "./static/media/calculator.1bfb2979.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.9cff7ef4.js",
     "static/js/2.22a8dccd.chunk.js",
-    "static/css/main.af579af1.chunk.css",
-    "static/js/main.7cfbc1bf.chunk.js"
+    "static/css/main.4902124d.chunk.css",
+    "static/js/main.e66a1d54.chunk.js"
   ]
 }
