@@ -15,7 +15,6 @@ a:hover {
   font-weight: bold;
 }
 
-
 li {
   list-style: none;
   padding: 0.5rem 0;
@@ -36,7 +35,6 @@ body::before {
   opacity: 0.2;
   z-index: -1;
  }
-
 
 .container {
   max-width: 1024px;
@@ -82,7 +80,6 @@ body::before {
   margin: 8px 20%;
 }
 
-
 .face {
   display: flex;
   justify-content: center;
@@ -103,9 +100,13 @@ body::before {
 .school {
   display: grid;
   gap: 2%;
+  grid-template-areas: "year course school";
   grid-template-columns: auto 3fr 4fr;
   border-bottom: 1px solid #ccc;
+}
 
+.school-name {
+  grid-area: school;
 }
 
 .school div {
@@ -181,7 +182,6 @@ h1, h2, h3 {
   font-size: 1.2rem;
 }
 
-
 .experience img {
   width: 100px;
   height: 100px;
@@ -227,5 +227,22 @@ h1, h2, h3 {
 
   .header {
     display: block;
+  }
+
+  .school {
+    grid-template-areas:
+      "year course"
+      "school school";
+    grid-template-columns: auto 1fr;
+  }
+
+  .school div:nth-child(2) {
+    border-right: none;
+    border-left: none;
+  }
+
+  .school-name {
+    margin-left: 60px;
+    color: rgb(134, 134, 134);
   }
 }

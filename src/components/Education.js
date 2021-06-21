@@ -14,9 +14,10 @@ export const Education = () =>{
     const educationJSX = education.map((item, i) => {
         return (
             <div className="school" key={ i }>
-                <div>{item[0]}</div>
-                <div>{item[1]}</div>
-                <div>{item[2]}</div>
+                <div className="year">{item[0]}</div>
+                <div className="course">{item[1]}</div>
+                <div className="school-name">{item[2]}</div>
+
             </div>
         )
     })
