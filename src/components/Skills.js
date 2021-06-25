@@ -1,13 +1,13 @@
 
 export const Skills = (props) =>{
     const skills = [
-        ['HTML', 3],
-        ['CSS', 3],
-        ['JS', 3],
-        ['TS', 1],
-        ['React', 2],
-        ['NodeJS', 1],
-        ['Git', 1],
+        ['HTML', 4],
+        ['CSS', 4],
+        ['JS', 4],
+        ['TS', 2],
+        ['React', 3],
+        ['NodeJS', 2],
+        ['Git', 2],
     ];
 
     const skillsJSX = skills.map((skille, i) => {
@@ -24,7 +24,10 @@ export const Skills = (props) =>{
         <section className="skilles">
             <h3>Skills</h3>
             { skillsJSX }
-            <img src="https://www.codewars.com/users/OKuts/badges/micro" alt="codewars"/>
+            <div>
+                <img src="https://www.codewars.com/users/OKuts/badges/small" alt="codewars"/>
+            </div>
+
         </section>
 
     )
