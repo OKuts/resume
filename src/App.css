@@ -8,11 +8,11 @@ a {
     color: black;
     font-family: helvetica;
     text-decoration: none;
-    text-transform: uppercase;
   }
 
 a:hover {
   font-weight: bold;
+  cursor: pointer;
 }
 
 li {
@@ -169,7 +169,7 @@ h1, h2, h3 {
 
 .skilles img {
   margin-top: 20px;
-  padding-left: 100px;
+  width: 100%;
 }
 
 .fas {
@@ -213,7 +213,7 @@ h1, h2, h3 {
   display: flex;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
 
   .container {
     display: flex;
@@ -244,5 +244,9 @@ h1, h2, h3 {
   .school-name {
     margin-left: 60px;
     color: rgb(134, 134, 134);
+  }
+
+  .skilles p, .contacts li {
+    margin-left: 80px;
   }
 }
