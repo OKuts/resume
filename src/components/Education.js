@@ -8,11 +8,34 @@ export const Education = () =>{
         ['2020', 'OOP JavaScript', 'ItGid', 'https://itgid.info/img/certificate/03_g89zd4u462.png'],
         ['2020', 'Node.JS /part 1/', 'ItGid', 'https://itgid.info/img/certificate/04_61ttdd1qwn.png'],
         ['2020', 'React. Lite level', 'ItGid', 'https://itgid.info/img/certificate/02_igr1148.png'],
-        ['2021', 'JS/FE 2020 Q3 (JavaScript)', 'RS School ','https://app.rs.school/certificate/qxp4pq6t'],
+        ['2021', 'JS/FE 2020 Q3 (JavaScript)', 'RS School','https://app.rs.school/certificate/qxp4pq6t'],
         ['2021', 'ReactJS', 'ItGid', 'https://itgid.info/img/certificate/08_zsn9wmqq61.png'],
-        ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum / Обучаюсь сейчас'],
-        ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum / Обучаюсь сейчас'],
+        ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum'],
+        ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum'],
     ]
+
+    const schools = {
+        'Hillel IT School': 'https://dnipro.ithillel.ua/',
+        'ItGid':            'https://itgid.info/',
+        'Lectrum':          'https://lectrum.io/',
+        'RS School':        'https://rs.school/',
+    };
+
+    const schoolName = (school) => {
+        if (school in schools) {
+            return (
+                <a
+                    href={schools.school}
+                    alt={school}
+                    target="_blank"
+                    rel="noreferrer">
+                    {school}
+                </a>
+            );
+        };
+        return school;
+    };
+
     const educationJSX = education.map((item, i) => {
         return (
             <div className="school" key={ i }>
@@ -27,8 +50,7 @@ export const Education = () =>{
                             {item[1]}</a>
                         : item[1]}
                 </div>
-                <div className="school-name">{item[2]}</div>
-
+                <div className="school-name">{schoolName(item[2])}</div>
             </div>
         )
     })
