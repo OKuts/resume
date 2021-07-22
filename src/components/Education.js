@@ -25,7 +25,7 @@ export const Education = () =>{
         if (school in schools) {
             return (
                 <a
-                    href={schools.school}
+                    href={schools[school]}
                     alt={school}
                     target="_blank"
                     rel="noreferrer">
