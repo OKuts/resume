@@ -14,6 +14,14 @@ export const Contacts = () =>{
                         <a href="mailto:kuts.ol.vas@gmail.com">kuts.ol.vas@gmail.com</a>
                     </li>
                     <li>
+                        <i class="fab fa-github-square"></i>
+                        <a href="https://github.com/OKuts">OKuts</a>
+                    </li>
+                    <li>
+                        <i class="fab fa-gitlab"></i>
+                        <a href="https://gitlab.com/O.Kuts">O.Kuts</a>
+                    </li>
+                    <li>
                         <i className="fas fa-map-marker-alt"></i>
                         Novomoskovsk (Dnipro), Ukraine
                     </li>
