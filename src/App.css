@@ -172,7 +172,7 @@ h1, h2, h3 {
   width: 100%;
 }
 
-.fas {
+.fas, .fab {
   min-width: 2rem;
   color: rgb(143, 67, 230)
 }
