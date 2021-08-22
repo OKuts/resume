@@ -10,7 +10,7 @@ export const Education = () =>{
         ['2020', 'React. Lite level', 'ItGid', 'https://itgid.info/img/certificate/02_igr1148.png'],
         ['2021', 'JS/FE 2020 Q3 (JavaScript)', 'RS School','https://app.rs.school/certificate/qxp4pq6t'],
         ['2021', 'ReactJS', 'ItGid', 'https://itgid.info/img/certificate/08_zsn9wmqq61.png'],
-        ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum'],
+        ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum','https://lectrum.io/certificates/rtx/19-aug-2021/rtx8-oleksandr-kuts.pdf'],
         ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum'],
     ]
 
