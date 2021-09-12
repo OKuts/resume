@@ -10,7 +10,7 @@ export const Header = () => {
                 </div>
                 <div>
                     <h1>OLEKSANDR KUTS</h1>
-                    <h2>... want to become a <br/><i>Javascript (React)</i> developer</h2>
+                    <h2>... want to become a <br/><i>JavaScript (React)</i> developer</h2>
                 </div>
             </header>
         </>

@@ -4,7 +4,7 @@ export const Skills = (props) =>{
         ['HTML', 4],
         ['CSS', 4],
         ['JS', 4],
-        ['TS', 2],
+        ['TS', 3],
         ['React', 3],
         ['NodeJS', 2],
         ['Git', 2],

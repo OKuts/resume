@@ -15,11 +15,11 @@ export const Contacts = () =>{
                     </li>
                     <li>
                         <i class="fab fa-github-square"></i>
-                        <a href="https://github.com/OKuts">OKuts</a>
+                        <a href="https://github.com/OKuts?tab=repositories">OKuts</a>
                     </li>
                     <li>
                         <i class="fab fa-gitlab"></i>
-                        <a href="https://gitlab.com/O.Kuts">O.Kuts</a>
+                        <a href="https://gitlab.com/dashboard/projects">O.Kuts</a>
                     </li>
                     <li>
                         <i className="fas fa-map-marker-alt"></i>
