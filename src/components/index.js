@@ -1,5 +1,5 @@
 export * from './Education';
-export * from './Experience';
+export * from './JavaScript';
 export * from './Summary';
 export * from './Contacts';
 export * from './Skills';
@@ -8,3 +8,4 @@ export * from './LeftPart';
 export * from './RightPart';
 export * from './Footer';
 export * from './English';
+export * from './ReactProjects';

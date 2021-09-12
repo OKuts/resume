@@ -1,11 +1,12 @@
-import { Summary, Experience, Education } from ".";
+import {Summary, JavaScript, Education, ReactProjects} from ".";
 
 export const RightPart = (props) =>{
 
     return (
      <div className='right-part'>
         <Summary/>
-        <Experience />
+        <JavaScript/>
+        <ReactProjects/>
         <Education />
      </div>
     )
