@@ -1,9 +1,11 @@
 import currencyExchange from '../img/currency_exchange.png';
 import minesweeper from '../img/minesweeper.png';
+import weather from '../img/weather.png';
 
 const projects = [
     [ 'Currency exchange', currencyExchange, "https://kuts-c05da.firebaseapp.com/" ],
     [ 'Minesweeper', minesweeper, "https://okuts.github.io/react-game/" ],
+    [ 'Weather', minesweeper, "https://okuts.github.io/weather/build" ],
 ]
 
 const proectsJSX = () => {
