@@ -1,11 +1,17 @@
 import currencyExchange from '../img/currency_exchange.png';
 import minesweeper from '../img/minesweeper.png';
 import weather from '../img/weather.png';
+import tips from '../img/tips.png';
+import todo from '../img/todo.png';
+
+
 
 const projects = [
     [ 'Currency exchange', currencyExchange, "https://kuts-c05da.firebaseapp.com/" ],
     [ 'Minesweeper', minesweeper, "https://okuts.github.io/react-game/" ],
     [ 'Weather', weather, "https://okuts.github.io/weather/build" ],
+    [ 'Tips and Tricks', tips, "https://github.com/OKuts/tips_and_trics" ],
+    [ 'Organizer', todo, "https://github.com/OKuts/organizer" ],
 ]
 
 const proectsJSX = () => {

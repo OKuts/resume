@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5e35158-8869-492b-bba9-aa6114a22fbf" name="Changes" comment="" />
+    <list default="true" id="b5e35158-8869-492b-bba9-aa6114a22fbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReactProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReactProjects.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +70,8 @@
       <workItem from="1631500713714" duration="4463000" />
       <workItem from="1631505648402" duration="496000" />
       <workItem from="1631506167901" duration="748000" />
-      <workItem from="1631552474455" duration="757000" />
+      <workItem from="1631552474455" duration="1125000" />
+      <workItem from="1631554549330" duration="354000" />
     </task>
     <servers />
   </component>
@@ -85,16 +89,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/components/ReactProjects.js</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
