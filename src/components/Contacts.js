@@ -14,11 +14,11 @@ export const Contacts = () =>{
                         <a href="mailto:kuts.ol.vas@gmail.com">kuts.ol.vas@gmail.com</a>
                     </li>
                     <li>
-                        <i class="fab fa-github-square"></i>
+                        <i className="fab fa-github-square"></i>
                         <a href="https://github.com/OKuts?tab=repositories">OKuts</a>
                     </li>
                     <li>
-                        <i class="fab fa-gitlab"></i>
+                        <i className="fab fa-gitlab"></i>
                         <a href="https://gitlab.com/dashboard/projects">O.Kuts</a>
                     </li>
                     <li>
