@@ -67,6 +67,7 @@
       <workItem from="1631500713714" duration="4463000" />
       <workItem from="1631505648402" duration="496000" />
       <workItem from="1631506167901" duration="748000" />
+      <workItem from="1631552474455" duration="402000" />
     </task>
     <servers />
   </component>
@@ -84,5 +85,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/ReactProjects.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
