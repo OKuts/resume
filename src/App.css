@@ -147,9 +147,23 @@ h1, h2, h3 {
   background: rgba(224, 255, 255, 0.8);
   padding: 0.5rem;
 }
+.english {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.english a {
+  display: block;
+  width: 50%;
+  margin-bottom: 1rem;
+}
+
+.english img {
+  width: 100%;
+}
 
 .right-part {
-  background: rgb(175, 238, 238,0.8);
+  background: rgba(175, 238, 238, 0.8);
   padding: 0.5rem;
 }
 

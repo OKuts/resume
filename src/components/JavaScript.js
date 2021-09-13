@@ -19,7 +19,7 @@ const projects = [
     [ 'Fast food order', pizza, 'https://okuts.github.io/pizza/build/' ],
     [ 'Internet shop', shop, 'https://okuts.github.io/shop/dist/' ],
     [ 'Iron bank', bank, 'https://okuts.github.io/iron_bank/dist/' ],
-    [ 'Travel', travel, 'https://github.com/OKuts/group_project' ],
+    [ 'Travel', travel, 'https://okuts.github.io/group_project/build' ],
 ]
 
 const proectsJSX = () => {
