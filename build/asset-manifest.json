@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.8c2e435d.chunk.css",
-    "main.js": "./static/js/main.bf8fce89.chunk.js",
-    "main.js.map": "./static/js/main.bf8fce89.chunk.js.map",
+    "main.js": "./static/js/main.e666d05d.chunk.js",
+    "main.js.map": "./static/js/main.e666d05d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9cff7ef4.js",
     "runtime-main.js.map": "./static/js/runtime-main.9cff7ef4.js.map",
     "static/js/2.22a8dccd.chunk.js": "./static/js/2.22a8dccd.chunk.js",
@@ -24,6 +24,8 @@
     "static/media/momentum.641a62d1.png": "./static/media/momentum.641a62d1.png",
     "static/media/shelter.dce49fc4.png": "./static/media/shelter.dce49fc4.png",
     "static/media/shop.90b40479.png": "./static/media/shop.90b40479.png",
+    "static/media/tips.32c303f8.png": "./static/media/tips.32c303f8.png",
+    "static/media/todo.4fd286f0.png": "./static/media/todo.4fd286f0.png",
     "static/media/travel.9552e1ec.png": "./static/media/travel.9552e1ec.png",
     "static/media/virtual_keyboard.7c0993de.png": "./static/media/virtual_keyboard.7c0993de.png",
     "static/media/weather.601786ce.png": "./static/media/weather.601786ce.png"
@@ -32,6 +34,6 @@
     "static/js/runtime-main.9cff7ef4.js",
     "static/js/2.22a8dccd.chunk.js",
     "static/css/main.8c2e435d.chunk.css",
-    "static/js/main.bf8fce89.chunk.js"
+    "static/js/main.e666d05d.chunk.js"
   ]
 }
