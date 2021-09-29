@@ -11,7 +11,7 @@ export const Education = () =>{
         ['2021', 'JS/FE 2020 Q3 (JavaScript)', 'RS School','https://app.rs.school/certificate/qxp4pq6t'],
         ['2021', 'ReactJS', 'ItGid', 'https://itgid.info/img/certificate/08_zsn9wmqq61.png'],
         ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum','https://lectrum.io/certificates/rtx/19-aug-2021/rtx8-oleksandr-kuts.pdf'],
-        ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum'],
+        ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum', 'https://lectrum.io/certificates/js2lvl/28-sep-2021/js2lvl3-oleksandr-kuts.pdf'],
     ]
 
     const schools = {
@@ -47,7 +47,8 @@ export const Education = () =>{
                             alt="item[1]"
                             target="_blank"
                             rel="noreferrer">
-                            {item[1]}</a>
+                            <span>{item[1]}</span>
+                            </a>
                         : item[1]}
                 </div>
                 <div className="school-name">{schoolName(item[2])}</div>
