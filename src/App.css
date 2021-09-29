@@ -156,14 +156,15 @@ h1, h2, h3 {
   flex-direction: column;
   align-items: center;
 }
-.english a {
-  display: block;
-  width: 50%;
-  margin-bottom: 1rem;
-}
 
 .english img {
   width: 100%;
+}
+
+.english a, .english>img {
+  display: block;
+  width: 70%;
+  margin-bottom: 1rem;
 }
 
 .right-part {
