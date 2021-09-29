@@ -15,6 +15,10 @@ a:hover {
   cursor: pointer;
 }
 
+a > span {
+  display: inline-block;
+}
+
 li {
   list-style: none;
   padding: 0.5rem 0;

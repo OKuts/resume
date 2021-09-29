@@ -1,9 +1,11 @@
 import era from '../img/english_era.png';
-import prometeus from '../img/english_prometeus.png'
+import prometeus from '../img/english_prometeus.png';
+import level from '../img/level.png';
 
 const english = [
   [era,'https://s3-eu-west-1.amazonaws.com/ed-era/downloads/89e5ce273335437ca397a01ca4de5075/Certificate.pdf'],
-  [prometeus, 'https://courses.prometheus.org.ua:18090/downloads/efe669548f5244038f7eef7a9996d52d/Certificate.pdf']
+  [prometeus, 'https://courses.prometheus.org.ua:18090/downloads/efe669548f5244038f7eef7a9996d52d/Certificate.pdf'],
+  [level,'#']
 ];
 
 export const English = () =>{
