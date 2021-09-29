@@ -7,7 +7,7 @@ export const Skills = (props) =>{
         ['TS', 3],
         ['React', 3],
         ['NodeJS', 2],
-        ['Git', 2],
+        ['Git', 3],
     ];
 
     const skillsJSX = skills.map((skille, i) => {
