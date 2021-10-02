@@ -8,11 +8,13 @@ a {
     color: black;
     font-family: helvetica;
     text-decoration: none;
+    display: block;
   }
 
 a:hover {
   font-weight: bold;
   cursor: pointer;
+  text-decoration: underline;
 }
 
 a > span {

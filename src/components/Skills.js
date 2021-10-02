@@ -19,15 +19,15 @@ export const Skills = (props) =>{
             </p>
         )
     })
-
     return (
         <section className="skilles">
             <h3>Skills</h3>
-            { skillsJSX }
             <div>
-                <img src="https://www.codewars.com/users/OKuts/badges/small" alt="codewars"/>
+                <a href='https://www.codewars.com/users/OKuts'>
+                    <img src="https://www.codewars.com/users/OKuts/badges/small" alt="codewars"/>
+                </a>
             </div>
-
+            { skillsJSX }
         </section>
 
     )
