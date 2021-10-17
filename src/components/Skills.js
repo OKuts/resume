@@ -5,8 +5,8 @@ export const Skills = (props) =>{
         ['CSS', 4],
         ['JS', 4],
         ['TS', 3],
-        ['React', 3],
-        ['NodeJS', 2],
+        ['React', 4],
+        ['NodeJS', 3],
         ['Git', 3],
     ];
 
