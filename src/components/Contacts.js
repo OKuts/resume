@@ -30,7 +30,7 @@ export const Contacts = () =>{
                         </a>
                     </li>
                     <li>
-                        <a href="https://github.com/OKuts?tab=repositories">
+                        <a href="https://github.com/OKuts">
                             <i className="fab fa-github-square"></i>
                             OKuts
                         </a>
