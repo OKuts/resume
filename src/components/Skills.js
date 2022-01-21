@@ -6,7 +6,11 @@ export const Skills = (props) =>{
         ['JS', 4],
         ['TS', 3],
         ['React', 4],
+        ['Next', 2],
         ['NodeJS', 3],
+        ['GraphQL', 2],
+        // ['MongoDb', 2],
+        // ['PostgresDb', 2],
         ['Git', 3],
     ];
 
@@ -20,13 +24,13 @@ export const Skills = (props) =>{
         )
     })
     return (
-        <section className="skilles">
+        <section className="skills">
             <h3>Skills</h3>
-            <div>
+            <p className='codeWars'>
                 <a href='https://www.codewars.com/users/OKuts'>
-                    <img src="https://www.codewars.com/users/OKuts/badges/small" alt="codewars"/>
+                    <img src="https://www.codewars.com/users/OKuts/badges/micro" alt="codewars"/>
                 </a>
-            </div>
+            </p>
             { skillsJSX }
         </section>
 
