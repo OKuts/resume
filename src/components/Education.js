@@ -12,7 +12,8 @@ export const Education = () =>{
         ['2021', 'ReactJS', 'ItGid', 'https://itgid.info/img/certificate/08_zsn9wmqq61.png'],
         ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum','https://lectrum.io/certificates/rtx/19-aug-2021/rtx8-oleksandr-kuts.pdf'],
         ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum', 'https://lectrum.io/certificates/js2lvl/28-sep-2021/js2lvl3-oleksandr-kuts.pdf'],
-    ]
+        ['2022', 'Продвинутый курс по Next.js v.12: cоздание SPA & SSR-приложений', 'Lectrum'],
+        ];
 
     const schools = {
         'Hillel IT School': 'https://dnipro.ithillel.ua/',

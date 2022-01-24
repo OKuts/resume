@@ -9,3 +9,4 @@ export * from './RightPart';
 export * from './Footer';
 export * from './English';
 export * from './ReactProjects';
+export * from './NextProjects';

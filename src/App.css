@@ -188,14 +188,18 @@ h1, h2, h3 {
   margin-top: 1.5rem;
 }
 
-.skilles img {
-  margin-top: 20px;
-  width: 100%;
+.codeWars {
+  text-align: center;
+}
+
+.codeWars img {
+  width: 75%;
+  height: 30px;
 }
 
 .fas, .fab {
   min-width: 2rem;
-  color: rgb(143, 67, 230)
+  color: rgb(32, 5, 234)
 }
 
 .summary {

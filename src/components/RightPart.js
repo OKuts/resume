@@ -1,13 +1,11 @@
-import {Summary, JavaScript, Education, ReactProjects} from ".";
+import {Summary, JavaScript, Education, ReactProjects, NextProjects} from ".";
 
-export const RightPart = (props) =>{
-
-    return (
-     <div className='right-part'>
+export const RightPart = () => (
+    <div className='right-part'>
         <Summary/>
         <JavaScript/>
         <ReactProjects/>
-        <Education />
-     </div>
-    )
-}
+        <NextProjects/>
+        <Education/>
+    </div>
+)
