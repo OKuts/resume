@@ -33,6 +33,5 @@ export const Skills = (props) =>{
             </p>
             { skillsJSX }
         </section>
-
     )
 }
