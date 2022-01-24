@@ -1,14 +1,10 @@
+import {Contacts, Skills, English} from "."
 
-import { Contacts, Skills, English } from "."
+export const LeftPart = () => (
+    <div className='left-part'>
+        <Contacts/>
+        <Skills/>
+        <English/>
+    </div>
 
-export const LeftPart = (props) =>{
-
-    return (
-     <div className='left-part'>
-        <Contacts />
-        <Skills />
-        <English />
-     </div>
-
-    )
-}
+)

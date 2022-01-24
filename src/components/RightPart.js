@@ -1,4 +1,4 @@
-import {Summary, JavaScript, Education, ReactProjects, NextProjects} from ".";
+import {Summary, JavaScript, Education, ReactProjects, NextProjects} from "."
 
 export const RightPart = () => (
     <div className='right-part'>

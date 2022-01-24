@@ -1,19 +1,17 @@
-import './App.css';
-import { LeftPart, RightPart, Header, Footer} from './components';
+import './App.css'
+import {LeftPart, RightPart, Header, Footer} from './components'
 
 
-function App() {
-  return (
+const App = () => (
     <>
-    <div className="container">
-      <Header />
-      <LeftPart />
-      <RightPart />
-      <Footer />
-    </div>
+        <div className="container">
+            <Header/>
+            <LeftPart/>
+            <RightPart/>
+            <Footer/>
+        </div>
 
     </>
-  );
-}
+)
 
-export default App;
+export default App

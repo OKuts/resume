@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e35158-8869-492b-bba9-aa6114a22fbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/NextProjects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/English.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/English.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LeftPart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LeftPart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NextProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NextProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReactProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReactProjects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/RightPart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RightPart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Summary.js" afterDir="false" />
@@ -38,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -48,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Programming\resume\src\img" />
       <recent name="H:\Programming\resume\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -90,7 +99,7 @@
       <workItem from="1634794973343" duration="882000" />
       <workItem from="1636256294332" duration="2058000" />
       <workItem from="1642768455903" duration="7375000" />
-      <workItem from="1642998201166" duration="1560000" />
+      <workItem from="1642998201166" duration="3059000" />
     </task>
     <servers />
   </component>
