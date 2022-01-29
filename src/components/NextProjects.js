@@ -1,7 +1,7 @@
 import courses from '../img/courses.png'
 
 const projects = [
-    ['Cursus', courses, "https://oleksandr-kuts-kncfi97dn-okuts.vercel.app/"],
+    ['Cursus', courses, "oleksandr-kuts-48kc437v9-okuts.vercel.app"],
 ]
 
 const proectsJSX = () => (
