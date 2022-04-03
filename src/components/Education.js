@@ -10,9 +10,10 @@ export const Education = () => {
         ['2020', 'React. Lite level', 'ItGid', 'https://itgid.info/img/certificate/02_igr1148.png'],
         ['2021', 'JS/FE 2020 Q3 (JavaScript)', 'RS School', 'https://app.rs.school/certificate/qxp4pq6t'],
         ['2021', 'ReactJS', 'ItGid', 'https://itgid.info/img/certificate/08_zsn9wmqq61.png'],
-        ['2021', 'Комплексный курс по React с современными технологиями', 'Lectrum', 'https://lectrum.io/certificates/rtx/19-aug-2021/rtx8-oleksandr-kuts.pdf'],
-        ['2021', 'JavaScript и TypeScript для продвинутых с современными подходами разработки', 'Lectrum', 'https://lectrum.io/certificates/js2lvl/28-sep-2021/js2lvl3-oleksandr-kuts.pdf'],
-        ['2022', 'Продвинутый курс по Next.js v.12: cоздание SPA & SSR-приложений', 'Lectrum'],
+        ['2021', 'React with Redux, MobX, TypeScript, Styled Components & CSS Modules', 'Lectrum', 'https://lectrum.io/certificates/rtx/19-aug-2021/rtx8-oleksandr-kuts.pdf'],
+        ['2021', 'JavaScript & TypeScript', 'Lectrum', 'https://lectrum.io/certificates/js2lvl/28-sep-2021/js2lvl3-oleksandr-kuts.pdf'],
+        ['2022', 'Odyssey GraphQL Tutorials', 'Apollo Graph Inc.', 'https://odyssey.apollographql.com/certifications/cfcd7474-41e3-44f5-a452-41481de275d3'],
+        ['2022', 'Next.js v.12: SPA & SSR', 'Lectrum'],
     ]
 
     const schools = {
@@ -20,6 +21,7 @@ export const Education = () => {
         'ItGid': 'https://itgid.info/',
         'Lectrum': 'https://lectrum.io/',
         'RS School': 'https://rs.school/',
+        'Apollo Graph Inc.': 'https://odyssey.apollographql.com/',
     }
 
     const schoolName = (school) => {
