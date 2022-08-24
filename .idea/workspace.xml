@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5e35158-8869-492b-bba9-aa6114a22fbf" name="Changes" comment="" />
+    <list default="true" id="b5e35158-8869-492b-bba9-aa6114a22fbf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Education.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,8 +87,18 @@
       <workItem from="1642768455903" duration="7375000" />
       <workItem from="1642998201166" duration="7374000" />
       <workItem from="1643457101297" duration="1217000" />
-      <workItem from="1643459422019" duration="359000" />
+      <workItem from="1643459422019" duration="2227000" />
+      <workItem from="1645169512758" duration="4505000" />
+      <workItem from="1661357713572" duration="482000" />
     </task>
+    <task id="LOCAL-00001" summary="change url">
+      <created>1643459859982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643459859982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,5 +115,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change url" />
+    <option name="LAST_COMMIT_MESSAGE" value="change url" />
   </component>
 </project>
