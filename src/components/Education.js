@@ -13,7 +13,7 @@ export const Education = () => {
         ['2021', 'React with Redux, MobX, TypeScript, Styled Components & CSS Modules', 'Lectrum', 'https://lectrum.io/certificates/rtx/19-aug-2021/rtx8-oleksandr-kuts.pdf'],
         ['2021', 'JavaScript & TypeScript', 'Lectrum', 'https://lectrum.io/certificates/js2lvl/28-sep-2021/js2lvl3-oleksandr-kuts.pdf'],
         ['2022', 'Odyssey GraphQL Tutorials', 'Apollo Graph Inc.', 'https://odyssey.apollographql.com/certifications/cfcd7474-41e3-44f5-a452-41481de275d3'],
-        ['2022', 'Next.js v.12: SPA & SSR', 'Lectrum'],
+        ['2022', 'Next.js v.12: SPA & SSR', 'Lectrum', 'https://lectrum.io/certificates/nextjs/23-feb-2022/nj-3-oleksandr-kuts.pdf'],
     ]
 
     const schools = {
