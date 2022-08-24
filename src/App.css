@@ -107,7 +107,7 @@ body::before {
   display: grid;
   gap: 2%;
   grid-template-areas: "year course school";
-  grid-template-columns: auto 3fr 4fr;
+  grid-template-columns: auto 1fr 1fr;
   border-bottom: 1px solid #ccc;
 }
 
